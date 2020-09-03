@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="azkaban.utils.MemConfValueTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-08-04T02:00:31" hostname="DESKTOP-KDA7QBB" time="0.015">
+  <properties/>
+  <testcase name="parseMaxXmX" classname="azkaban.utils.MemConfValueTest" time="0.01"/>
+  <testcase name="parseMaxXms" classname="azkaban.utils.MemConfValueTest" time="0.0"/>
+  <testcase name="parseEmptyThrows" classname="azkaban.utils.MemConfValueTest" time="0.003"/>
+  <testcase name="parseMaxXmsDefault" classname="azkaban.utils.MemConfValueTest" time="0.0"/>
+  <testcase name="parseMaxXmXDefault" classname="azkaban.utils.MemConfValueTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="azkaban.utils.ExecutorServiceUtilsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-08-04T02:00:29" hostname="DESKTOP-KDA7QBB" time="1.954">
+  <properties/>
+  <testcase name="can_not_submit_tasks_after_shutdown" classname="azkaban.utils.ExecutorServiceUtilsTest" time="0.2"/>
+  <testcase name="force_shutdown_after_timeout" classname="azkaban.utils.ExecutorServiceUtilsTest" time="1.752"/>
+  <testcase name="gracefulShutdown" classname="azkaban.utils.ExecutorServiceUtilsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (azkaban.utils.ExecutorServiceUtils).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>
